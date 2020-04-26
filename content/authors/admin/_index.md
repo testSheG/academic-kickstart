@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Nalin Asanka Gamagedara Arachchilage
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Research in Software Security Engineering (LERSSE)
 
 # Organizations/Affiliations
 organizations:
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My name is Nalin Asanka Gamagedara Arachchilage (too long, isn't it?). I currently work as Postdoctoral Research Fellow in Usable Privacy and Security under the supervision of Professor Konstantin Beznosov in the Laboratory of Education and Research in Software Security Engineering (LERSSE) at University of British Columbia, Canada. Before moving to this beautiful Vancouver, I worked as Postdoctoral Researcher in Systems Security Engineering under the supervision of Professor Andrew Martin in the Cyber Security Center, Department of Computer Science at Oxford University.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
