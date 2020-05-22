@@ -14,7 +14,7 @@ role: Research in Software Security Engineering (LERSSE)
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: La Trobe University 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
